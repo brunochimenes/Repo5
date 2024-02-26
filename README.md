@@ -74,6 +74,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 > Veja o arquivo [package.json](https://github.com/brunochimenes/react-native-ignite-shoesapp/blob/main/package.json).
 
+## Melhorias
+
+- [ ] Pretendo adicionar notificação, utilizando a biblioteca notifee.
+
 ## 💪 Como contribuir no projeto
 
 1. Faça um **fork** do projeto.
